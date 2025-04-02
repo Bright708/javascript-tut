@@ -1,2 +1,3 @@
 # javascript-tut
-made using html and css
+My first game
+
